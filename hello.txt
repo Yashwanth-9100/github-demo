@@ -1,1 +1,1 @@
-Hello GitHub Demo Class!
+Hello Github Demo Class!
